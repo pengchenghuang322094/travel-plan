@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>瑞士一日游</title>
+    <style>
+        body{font-family:Arial;max-width:800px;margin:0 auto;padding:20px}
+        h1{color:#2c3e50;text-align:center}
+        .item{margin-bottom:15px;padding-left:15px;border-left:3px solid #3498db}
+        .time{font-weight:bold;color:#3498db}
+        .transport{color:#e74c3c}
+        .attract{color:#27ae60}
+        .food{color:#f39c12}
+        .note{font-size:0.9em;color:#7f8c8d}
+    </style>
+</head>
+<body>
+    <h1>瑞士卢塞恩一日游</h1>
+    
+    <div class="item transport">
+        <span class="time">07:45-08:45</span> 杜塞→苏黎世航班 (1h)
+    </div>
+    
+    <div class="item">
+        <span class="time">08:45-09:30</span> 苏黎世机场入境
+    </div>
+    
+    <div class="item transport">
+        <span class="time">09:30-10:30</span> 苏黎世→卢塞恩火车 (1h)
+        <div class="note">坐右侧看湖景</div>
+    </div>
+    
+    <div class="item">
+        <span class="time">10:30-11:00</span> 车站存行李 (5-10瑞郎)
+    </div>
+    
+    <div class="item transport">
+        <span class="time">11:00-12:04</span> 卢塞恩→Vitznau游船 (1h4m)
+    </div>
+    
+    <div class="item transport">
+        <span class="time">12:15-12:47</span> Vitznau→Rigi Kulm小火车 (32m)
+        <div class="note">坐左侧看湖景</div>
+    </div>
+    
+    <div class="item attract">
+        <span class="time">12:47-13:47</span> 瑞吉山顶游览
+    </div>
+    
+    <div class="item transport">
+        <span class="time">13:47-14:00</span> Rigi Kulm→Kaltbad小火车 (13m)
+    </div>
+    
+    <div class="item transport">
+        <span class="time">14:10-14:20</span> Kaltbad→Weggis缆车 (10m)
+    </div>
+    
+    <div class="item food">
+        <span class="time">14:20-15:30</span> Weggis午餐 (推荐奶酪火锅)
+    </div>
+    
+    <div class="item transport">
+        <span class="time">15:30-16:20</span> Weggis→卢塞恩游船 (50m)
+    </div>
+    
+    <div class="item attract">
+        <span class="time">16:30-18:30</span> 老城区游览 (廊桥/狮子像/城墙)
+    </div>
+    
+    <div class="item food">
+        <span class="time">19:00-20:30</span> 晚餐: Old Swiss House
+    </div>
+    
+    <div class="item">
+        <span class="time">20:30-</span> 入住Hotel des Balances
+    </div>
+</body>
+</html>
